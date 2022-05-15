@@ -189,9 +189,13 @@ CGTN西班牙语,http://117.148.179.176/PLTV/88888888/224/3221231546/index.m3u8
 CGTN西语,http://39.136.48.2:8089/PLTV/88888888/224/3221226324/index.m3u8
 CGTN阿拉伯语,http://117.148.179.163/PLTV/88888888/224/3221231579/index.m3u8 
 CGTN阿语,http://39.136.48.2:8089/PLTV/88888888/224/3221226405/index.m3u8
-CHC高清,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC高清电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
+CHC动作电影,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1
 CHC家庭影院,http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8 
+CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1
 卫视,#genre#
 湖南卫视,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
