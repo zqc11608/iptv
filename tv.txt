@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1,http://119.167.231.18/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225490/index.m3u8
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1 
 CCTV1,http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1 
@@ -15,7 +15,7 @@ CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8
 CCTV1,http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8
 CCTV1,http://iptv.tvfix.org/hls/cctv1hd.m3u8  
 CCTV1,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000210103.m3u8 
-CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV2,http://119.167.231.18/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225612/index.m3u8
 CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221225800/index.m3u8?servicetype=1 
 CCTV2,http://39.135.55.105:6610/PLTV/88888888/224/3221225923/index.m3u8?servicetype=1 
@@ -40,7 +40,7 @@ CCTV3,http://117.148.179.140/PLTV/88888888/224/3221231528/index.m3u8
 CCTV3,http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 CCTV3,http://iptv.tvfix.org/hls/cctv3hd.m3u8  
 CCTV3,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000203803.m3u8  
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 CCTV4,http://119.167.231.18/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225610/index.m3u8
 CCTV4,http://39.135.55.105:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1 
 CCTV4,http://39.135.55.105:6610/PLTV/88888888/224/3221226968/index.m3u8?servicetype=1 
@@ -54,7 +54,7 @@ CCTV4,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?
 CCTV4,http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 CCTV4,http://iptv.tvfix.org/hls/cctv4hd.m3u8 
 CCTV4,http://tlivectfree-cdn.ysp.cctv.cn/ysp/2000204803.m3u8  
-CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV5+,http://119.167.231.18/zycfcdn.gdwlcloud.com/TVOD/88888888/224/3221225494/index.m3u8
 CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV5+,http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1 
@@ -371,3 +371,8 @@ CHC家庭影院,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/play
 上海都市,http://117.148.179.165/PLTV/88888888/224/3221231618/index.m3u8
 欢笑剧场,http://117.148.179.168/PLTV/88888888/224/3221230739/index.m3u8
 幸福彩,http://117.148.179.156/PLTV/88888888/224/3221231730/index.m3u8
+SiTV全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+SiTV极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8
+SiTV极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
+SiTV游戏风云,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226579/index.m3u8
+SiTV都市剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226581/index.m3u8
