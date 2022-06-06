@@ -1,4 +1,3 @@
-//【黑客帝国】更新2022.5.10 JavaScrip for BiuBiuTV.json
 {"zhuyejiekou": [
 {"name":"默认库","url":"https://jiku.vip/mogai_api.php/v1.vod"},
 {"name":"牛马TV","url":"http://niumatv.com/api.php/app/"},
@@ -947,5 +946,4 @@
   "bfbiaotihou": "<",
   "bflianjieqian": "href=\"",
   "bflianjiehou": "\""
-}
 }
