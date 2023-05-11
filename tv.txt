@@ -297,8 +297,8 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225586/index.m3u8?fmt=ts2hls
 黑龙江卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225690/index.m3u8
 上海纪实人文,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001330/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-SITV欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
-SITV欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8
+欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
 极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226574/index.m3u8
 极速汽车,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226583/index.m3u8
@@ -307,7 +307,7 @@ SITV欢笑剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900
 湖南金鹰卡通,http://[2409:8087:4402:20:1:1216:401:3b]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
 湖南金鹰纪实,http://[2409:8087:4402:20:1:1216:401:37]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226349/index.m3u8
 湖南金鹰纪实,http://[2409:8087:4400:20:1:a0f:12:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226668/index.m3u8
-SITV乐游,http://[2409:8087:4402:20:1:1216:401:37]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
+乐游,http://[2409:8087:4402:20:1:1216:401:37]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226335/index.m3u8
 乐游,http://[2409:8087:4400:20:1:a0f:12:29]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
 动漫秀场,http://[2409:8087:4400:20:1:a0f:12:2a]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
 动漫秀场,http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226325/index.m3u8
