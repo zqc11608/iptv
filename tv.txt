@@ -1,5 +1,5 @@
 央视,#genre#,https://epg.112114.free.hr/
-CCTV-1 综合,http://iptv.yjxfz.com:80/aitv/play/4/7ID863I4A4I9J8N2/1D6I731382I256EA$IPV4线路_1
+CCTV-1 综合,http://[2409:8087:1a0a:df:4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-1 综合,http://iptv.yjxfz.com:80/aitv/play/4/7ID863I4A4I9J8N2/921EI268J5DJN57I$IPV4线路_2
 CCTV-1 综合,http://iptv.yjxfz.com:80/aitv/play/4/7ID863I4A4I9J8N2/EIEA147018N32N79$IPV4线路_3
 CCTV-1 综合,http://iptv.yjxfz.com:80/aitv/play/4/7ID863I4A4I9J8N2/4AE013737372J711$IPV4线路_4
