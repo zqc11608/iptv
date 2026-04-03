@@ -1,53 +1,68 @@
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
-#EXTINF:-1,CCTV1
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
-#EXTINF:-1,CCTV2
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u
-#EXTINF:-1,CCTV3
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
-#EXTINF:-1,CCTV4
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-#EXTINF:-1,CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-#EXTINF:-1,CCTV5+
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
-#EXTINF:-1,CCTV5
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-#EXTINF:-1,CCTV6
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1,CCTV6
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-#EXTINF:-1,CCTV6
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001859/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,CCTV7
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
-#EXTINF:-1,CCTV8
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-#EXTINF:-1,CCTV9
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-#EXTINF:-1,CCTV10
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-#EXTINF:-1,CCTV10
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1,CCTV11
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-#EXTINF:-1,CCTV11
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225517/index.m3u8
-#EXTINF:-1,CCTV12
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
-#EXTINF:-1,CCTV13
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:-1,CCTV14
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
-#EXTINF:-1,CCTV15
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
-#EXTINF:-1,CCTV15
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
-#EXTINF:-1,CCTV16
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1,CCTV16
-http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
-#EXTINF:-1,CCTV16
-http://livepull.sxiptv.cn/live/CCTV16.m3u8?txSecret=eb9c76cfe79581d77642610a4445e33a&txTime=66666666
-#EXTINF:-1,CCTV17
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTM3U url-tvg="https://raw-githubusercontent-com-gh.2x.nz/plsy1/epg/main/e/seven-days.xml.gz" 
+#EXTINF:-1 tvg-name="CCTV1" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV1.png" , CCTV1
+http://192.168.5.1:4200/rtp/239.253.230.77:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV2" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV2.png" , CCTV2
+http://192.168.5.1:4200/rtp/239.253.230.232:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV3" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV3.png" , CCTV3
+http://192.168.5.1:4200/rtp/239.253.230.191:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4.png" , CCTV4
+http://192.168.5.1:4200/rtp/239.253.230.111:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4欧洲" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4欧洲.png" , CCTV4欧洲
+http://192.168.5.1:4200/rtp/239.253.230.186:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4美洲" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4美洲.png" , CCTV4美洲
+http://192.168.5.1:4200/rtp/239.253.230.187:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV5" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5.png" , CCTV5
+http://192.168.5.1:4200/rtp/239.253.230.192:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV5+" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV5+.png" , CCTV5+
+http://192.168.5.1:4200/rtp/239.253.230.80:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV6" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV6.png" , CCTV6
+http://192.168.5.1:4200/rtp/239.253.230.193:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV7" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV7.png" , CCTV7
+http://192.168.5.1:4200/rtp/239.253.230.233:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV8" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV8.png" , CCTV8
+http://192.168.5.1:4200/rtp/239.253.230.194:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV9" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV9.png" , CCTV9
+http://192.168.5.1:4200/rtp/239.253.230.79:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV10" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV10.png" , CCTV10
+http://192.168.5.1:4200/rtp/239.253.230.234:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV11" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV11.png" , CCTV11
+http://192.168.5.1:4200/rtp/239.253.230.169:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV12" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV12.png" , CCTV12
+http://192.168.5.1:4200/rtp/239.253.230.235:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV13" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV13.png" , CCTV13
+http://192.168.5.1:4200/rtp/239.253.230.175:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV14" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV14.png" , CCTV14
+http://192.168.5.1:4200/rtp/239.253.230.236:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV15" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV15.png" , CCTV15
+http://192.168.5.1:4200/rtp/239.253.230.170:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV17" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV17.png" , CCTV17
+http://192.168.5.1:4200/rtp/239.253.230.168:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="CCTV4K" group-title="央视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/CCTV4K.png" , CCTV4K
+http://192.168.5.1:4200/rtp/239.253.230.122:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东卫视4K" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东卫视4K.png" , 山东卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.172:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="江苏卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/江苏卫视4K.png" , 江苏卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.133:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="湖南卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/湖南卫视4K.png" , 湖南卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.28:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="浙江卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/浙江卫视4K.png" , 浙江卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.27:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="东方卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/东方卫视4K.png" , 东方卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.176:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="四川卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/四川卫视4K.png" , 四川卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.123:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="北京卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/北京卫视4K.png" , 北京卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.200:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="深圳卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/深圳卫视4K.png" , 深圳卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.61:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="广东卫视4K" group-title="卫视频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/广东卫视4K.png" , 广东卫视4K
+http://192.168.5.1:4200/rtp/239.253.230.108:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="爱上4K测试体验" group-title="其他频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/爱上4K测试体验.png" , 爱上4K测试体验
+http://192.168.5.1:4200/rtp/239.253.230.102:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东卫视" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东卫视.png" , 山东卫视
+http://192.168.5.1:4200/rtp/239.253.230.78:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东齐鲁" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东齐鲁.png" , 山东齐鲁
+http://192.168.5.1:4200/rtp/239.253.230.114:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东文旅" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东文旅.png" , 山东文旅
+http://192.168.5.1:4200/rtp/239.253.230.160:8000?fcc=124.132.240.66:15970
+#EXTINF:-1 tvg-name="山东生活" group-title="山东频道" tvg-logo="https://fastly.jsdelivr.net/gh/plsy1/iptv@master/logo/山东
